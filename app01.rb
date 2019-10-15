@@ -39,4 +39,4 @@ while player1.life_points >=0 && player2.life_points >= 0
 
 end
 
-binding.pry  # Maintenant c'est open bar !!
+#binding.pry  # Maintenant c'est open bar !!

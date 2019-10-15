@@ -9,4 +9,4 @@ le app02.rb ==> Cette fois tu joues contre deux players. Les mecs sont forts, ma
                 Pour le lancer > ruby app02.rb dans un terminal, Réponds aux questions, laisse toi guider, et défonce-les !!!!!
 
 le app03.rb ==> Cette fois tu joues contre 4 players. Les mecs sont ultra-forts... mais viteuf !!
-				Pour le lancer > ruby app03.rb dans un terminal, Réponds aux questions....Finish them, we need you !!!!
+				Pour le lancer > ruby app03.rb dans un terminal, Réponds aux questions....mais j'ai un pb avec le delete...dans kill_player...si jamais t'as la rep !!
